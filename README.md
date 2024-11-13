@@ -1,6 +1,4 @@
-Here's the corrected `README.md` content:
 
-```markdown
 # Academic Research Paper Assistant
 
 This project is an Academic Research Paper Assistant application built with FastAPI (for the backend) and Streamlit (for the frontend). It allows users to search for academic papers on ArXiv by topic and year and to query a Neo4j database for similar papers. The application also generates research ideas based on the content of the retrieved papers.
